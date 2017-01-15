@@ -1,0 +1,309 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\topmargin 0.75in
+\bottommargin 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Lesson 3: Introduction to Combinatorics
+\end_layout
+
+\begin_layout Author
+Waterloo Math Team Youth Outreach
+\end_layout
+
+\begin_layout Date
+January 30th, 2015
+\end_layout
+
+\begin_layout Section*
+Problems
+\end_layout
+
+\begin_layout Enumerate
+How many (positive) four digit numbers are there? 
+\end_layout
+
+\begin_layout Enumerate
+How many three digit numbers are there...
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+...if every digit is 2,3, or 4? Write out all possible numbers.
+ 
+\end_layout
+
+\begin_layout Enumerate
+...if you have to use the digits 2,3,4 exactly once each? Write out all possible
+ numbers.
+ 
+\end_layout
+
+\begin_layout Enumerate
+...if every digit is 7,8, or 9, and there has to be at least two of the same
+ digit?
+\end_layout
+
+\begin_layout Enumerate
+...with an odd number as its last digit?
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Working with factors...
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+How many (positive) factors does 28 have? Write them out.
+\end_layout
+
+\begin_layout Enumerate
+Find the smallest multiple of 8 that has exactly 10 factors.
+\end_layout
+
+\begin_layout Enumerate
+Find the smallest (positive) number with exactly 8 factors.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+How many two letter words are there, if at least one of them have to be
+ a vowel? Don't count 'y' as a vowel.) 
+\end_layout
+
+\begin_layout Enumerate
+Evaluate:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+7!
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{1}{5}{8 \choose 4}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Formula $\frac{52!}{50!}$
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Find the number of rearrangements of the word:
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+HELLO
+\end_layout
+
+\begin_layout Enumerate
+BANANA
+\end_layout
+
+\begin_layout Enumerate
+MISSISSIPPI
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Aaron, Bob, Carol, Doug, and Emily all apply to be in a band.
+ Let's assume they will pick instruments later.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+How many possible bands are there with only Aaron, Bob, and Carol? 
+\end_layout
+
+\begin_layout Enumerate
+How many ways are there to choose a three person band that includes Emily?
+\end_layout
+
+\begin_layout Enumerate
+Try doing (a) and (b) again, but with each person is placed on an instrument.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+If you are dealt two cards from a standard 52-card deck, how many ways are
+ there to get dealt...
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+...two fives? (
+\begin_inset Formula $5\spadesuit5\clubsuit$
+\end_inset
+
+, 
+\begin_inset Formula $5\spadesuit5\heartsuit,$
+\end_inset
+
+ etc.) 
+\end_layout
+
+\begin_layout Enumerate
+...two cards of the same suit? (
+\begin_inset Formula $5\spadesuit8\spadesuit$
+\end_inset
+
+, 
+\begin_inset Formula $Q\heartsuit10\heartsuit,$
+\end_inset
+
+ etc.) 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+How many ways are there to divide the numbers from 1 to 10 into three groups,
+ where every number in the first group is smaller than every number in the
+ second group, and every number in the second group is smaller than every
+ number in the third group? 
+\end_layout
+
+\begin_layout Enumerate
+If there are 
+\begin_inset Formula $n$
+\end_inset
+
+ countries to conquer, where 
+\begin_inset Formula $n$
+\end_inset
+
+ is a number at least 
+\begin_inset Formula $4$
+\end_inset
+
+, in how many total ways can you choose 
+\begin_inset Formula $3$
+\end_inset
+
+ or 
+\begin_inset Formula $4$
+\end_inset
+
+ countries to conquer? (Leave your answer as 
+\begin_inset Formula $n$
+\end_inset
+
+ choose something.)
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+(Bonus Questions)
+\end_layout
+
+\begin_layout Itemize
+From 1001 to 4999, how many multiples of 5 there are that aren't also multiples
+ of 15? 
+\end_layout
+
+\begin_layout Itemize
+Are there more 8-digit numbers with the digit '2', or are there more 8-digit
+ numbers without the digit '2'? 
+\end_layout
+
+\begin_layout Itemize
+In how many different positions can five keys be put on a keychain? Note
+ that they count as the same position, if you could rotate or flip the keychain
+ in any way and get the same position.
+ 
+\end_layout
+
+\begin_layout Itemize
+In how many ways can I distribute ten candies between Fred, George, Henry,
+ and Ian, if I have to give everyone at least 
+\begin_inset Formula $1$
+\end_inset
+
+ candy? 
+\end_layout
+
+\end_body
+\end_document

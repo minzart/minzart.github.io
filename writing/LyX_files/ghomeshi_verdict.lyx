@@ -1,0 +1,144 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding utf8
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.9in
+\topmargin 0.75in
+\rightmargin 0.9in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+In Light of the Ghomeshi Trial Aftermath
+\end_layout
+
+\begin_layout Author
+Tim Min
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+After following the Ghomeshi trial, I thought up a little mental experiment.
+\end_layout
+
+\begin_layout Standard
+Let's say there are five people, and it ends up being that exactly four
+ must have participated in a crime, while the last person is completely
+ innocent and separated.
+ It is highly unlikely a body of evidence could result in this situation,
+ but bear with me.
+\end_layout
+
+\begin_layout Standard
+Is it better to convict all of them - thus making sure all wrong is punished
+ but one innocent is unfairly implicated - or to convict none of them -
+ thus making sure innocents are never implicated, but surely letting four
+ wrongdoers go?
+\end_layout
+
+\begin_layout Standard
+How would this change based on the number of people and the balance?
+\end_layout
+
+\begin_layout Standard
+The reason why I post this question is this: Is it better to always request
+ a "smoking gun" or absolute victim credibility in trials of this nature
+ to always ensure correct convictions, or is it better to side with complainants
+ to make sure they are not unfairly being dismissed because of various societal
+ views on victims? It's a really tough philosophical question: is it better
+ to hurt innocents in punishing the guilty, or to spare the guilty in protecting
+ the innocent?
+\end_layout
+
+\begin_layout Standard
+I must say I am siding (and in some ways regrettably) with the latter.
+\end_layout
+
+\end_body
+\end_document

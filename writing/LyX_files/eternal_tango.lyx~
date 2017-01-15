@@ -1,0 +1,176 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 11
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+The Eternal Tango
+\end_layout
+
+\begin_layout Author
+Tim Min
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All to be known about human relationships can be summed up by the motion
+ of celestial bodies.
+\end_layout
+
+\begin_layout Standard
+Two bodies in space attract each other and endlessly inch closer.
+ It is the law of the universe.
+ Two bodies, no matter how far or how different, pull longingly to shrink
+ the gap that spans worlds, galaxies, eternities.
+ And they only increase in their desire to be with the other as they traverse
+ the vastness of space.
+\end_layout
+
+\begin_layout Standard
+Closer and closer they draw, until finally they are there together, with
+ but hundreds of thousands of miles between them.
+\end_layout
+
+\begin_layout Standard
+The strength of gravitational pull in inversely proportional to the square
+ of the distance.
+ A halved distance is a four-fold strong force, locking the new bodies on
+ a course.
+\end_layout
+
+\begin_layout Standard
+A path to collision.
+\end_layout
+
+\begin_layout Standard
+Maybe it is two meek planets, who eventually glance each other ever so slightly.
+ They pass by each other, each gaining a fresh dent on their surfaces.
+ With but millions of years, all trace of memory erodes away.
+\end_layout
+
+\begin_layout Standard
+Maybe it is a planet and a brilliant star.
+ The light is irresistible, and the star knows.
+ The planet hurdles through emptiness towards the shining beacon, until
+ the pull tears this little speck into a billion pieces.
+ The fragments of the poor planet are consumed by the star without even
+ a sign of hesitation.
+\end_layout
+
+\begin_layout Standard
+Maybe it is two stars, each mesmerized by the other.
+ Their hellish flames lick the other as they finally consummate their desires,
+ and a fiery display lights up the evening sky.
+ Both are scattered in a cloud of dust, which forms into more celestial
+ bodies destined on destructive courses through the universe.
+\end_layout
+
+\begin_layout Standard
+But what of the two stars that are locked in their eternal tango, dancing
+ away timelessly and shining as if they were one? The endless sweeping around
+ the other keeps the two at length, sparing the fate that other bodies must
+ take.
+ They are both contently burning, but still are forever longing to be pulled
+ even closer, with their clueless wish to come together regardless of consequenc
+e.
+\end_layout
+
+\begin_layout Standard
+All in this universe seeks proximity, and all proximity is how all is destroyed
+ and destroys.
+ For in this pitiable reality the pursuit of proximity is the root of pain.
+\end_layout
+
+\end_body
+\end_document

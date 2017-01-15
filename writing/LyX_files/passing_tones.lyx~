@@ -1,0 +1,184 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.9in
+\topmargin 0.75in
+\rightmargin 0.9in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Passing Notes in Parallel
+\end_layout
+
+\begin_layout Author
+Tim Min
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+This was written in an English class, then changed around for a competition.
+\end_layout
+
+\begin_layout Standard
+My hands tremble as I hit “Send”.
+ My eyes dart to the Subject line: "Entry - Short Story Contest".
+ My unease linger long after the message sends.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Write about something important to you
+\emph default
+, my teacher suggested.
+ And so, my thoughts turned to one person: friend, advisor, idol\SpecialChar \ldots{}
+
+\end_layout
+
+\begin_layout Standard
+The one I love.
+ 
+\end_layout
+
+\begin_layout Standard
+She is a golden fruit; any flaw she had was simply a small bruise that made
+ her even sweeter.
+ Whenever she played the piano for me, I listened with not only my ears
+ but also my heart.
+ She is Brahms’ Clara Wieck, Chopin’s George Sand, Liszt’s Marie d'Agoult:
+ the target of a hopeless admirer looking upon a treasure one branch too
+ far away.
+ 
+\end_layout
+
+\begin_layout Standard
+Those calm twilight hours full of music and joy will stay in my heart forever.
+ Shared cries, joined laughter, and high hopes filled the room when sunlight
+ could not.
+ If only we could never be farther apart than two musicians performing a
+ duet!
+\end_layout
+
+\begin_layout Standard
+When she told me she was moving away, I was crushed.
+ She had visions of seeing new places and escaping this plain, fameless
+ city; I had a simple hope of going to our local university.
+ Conflicting ambitions threatened the existence of our friendship—and of
+ my ardent affection.
+ I feared the day when we would each fade from the other's memories.
+ 
+\end_layout
+
+\begin_layout Standard
+I take my teacher's suggestion and weep the entire night as I write my entry
+ for the short story contest.
+ I rewrite and rewrite, but the final line stays the same: "And with tears
+ flowing, I took in her words: 'I am leaving soon.'" 
+\end_layout
+
+\begin_layout Standard
+Alone in the dark room, I slump against the piano.
+ Her sprint out the door re-plays in my head over and over.
+ My fist clenches around the bouquet of roses.
+ The rejected flowers seem to cry with me.
+\end_layout
+
+\begin_layout Standard
+I never see her again.
+ Never get to say goodbye.
+\end_layout
+
+\begin_layout Standard
+A few days after submission, I find out I won the contest—conditionally.
+ “Rewrite the ending,” the editor commented.
+ “Make it resonate like the rest of the story!” When I finally rewrite the
+ only sentence I desperately want to fix, my eyes well up as I re-read:
+ "And with tears flowing, I took in her words: 'I will stay with you forever.
+ No matter what happens, just remember that I love you.'" 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Word count
+\emph default
+: 380
+\end_layout
+
+\end_body
+\end_document

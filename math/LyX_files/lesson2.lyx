@@ -1,0 +1,525 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 10
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Lesson 2: Practice with Algebra and Relationships
+\end_layout
+
+\begin_layout Author
+Waterloo Math Team Youth Outreach
+\end_layout
+
+\begin_layout Date
+January 24th, 2016
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note: This is a continuation of Lesson 1.
+ Refer to the summary in the Lesson 1 handout if you are still uncomfortable
+ with any of the concepts we are using.
+\end_layout
+
+\begin_layout Section*
+Summary
+\end_layout
+
+\begin_layout Itemize
+With what we learned last class, we now know that 
+\emph on
+variables
+\emph default
+ can be used as stand-ins to represent quantitative traits of certain 
+\emph on
+objects
+\emph default
+.
+\end_layout
+
+\begin_layout Itemize
+An 
+\emph on
+equation
+\emph default
+ describes how two objects are the same, and can help us to find information
+ about one object if we know something about the other.
+\end_layout
+
+\begin_layout Itemize
+However, sometimes there are multiple objects to take into consideration;
+ in these cases, we do not know anything specific about either object, but
+ can figure out the 
+\emph on
+relationship
+\emph default
+ between them.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+e.g.
+ If Tony has 20 apples and I have none, no matter how many apples I steal
+ from him there will still be 20 in total.
+ You might not know the exact number either of us have, but you do know
+ they must add up to 20.
+ Therefore, if you saw how many apples Tony has left you will also know
+ how many apples I have.
+\end_layout
+
+\begin_layout Itemize
+e.g.
+ If I know that ten stones weighs as much as a boulder, I would be able
+ to express weight of any pile of stones in terms of boulders and vice versa.
+ For example, three boulders is the same weight as thirty stones, and fifteen
+ stones is the same weight as one and a half boulders.
+\end_layout
+
+\begin_layout Itemize
+e.g.
+ If I know the area of a rectangular field is 100 
+\begin_inset Formula $\mbox{m\ensuremath{^{2}}}$
+\end_inset
+
+, no matter what the lengths of the length and width are, they must multiply
+ to 100 
+\begin_inset Formula $\mbox{m\ensuremath{^{2}}}$
+\end_inset
+
+.
+ If you measure one side, you would always be able to determine the other
+ side.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+If we have a relationship between two variables, we are able to replace
+ one variable with the other in other relationships for the sake of solving
+ problems.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+e.g.
+ In the apple example, if Tony gets 10 points for every apple he stops me
+ from stealing and I get 5 points for every apple I steal, then I tell you
+ that the total number of points we have is 165, you can figure out two
+ relationships:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+x+y & =20 & \mbox{[This is about the number of apples.]}\\
+10x+5y & =165 & [\mbox{This is about the number of points.]}
+\end{align*}
+
+\end_inset
+
+(where 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+ are the number of apples Tony and I have, respectively.)
+\end_layout
+
+\begin_layout Standard
+If I were to then note that 
+\begin_inset Formula $y=20-x$
+\end_inset
+
+ and replace 
+\begin_inset Formula $y$
+\end_inset
+
+ with 
+\begin_inset Formula $20-x$
+\end_inset
+
+ in the second equation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+10x+5(20-x) & =165\\
+10x+100-5x & =165\\
+5x & =65\\
+x & =13\\
+\Longrightarrow y & =20-13\\
+ & =7
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+So Tony has 
+\begin_inset Formula $x=13$
+\end_inset
+
+ apples and I have 
+\begin_inset Formula $y=7$
+\end_inset
+
+ apples.
+\end_layout
+
+\begin_layout Standard
+(If you don't understand the math behind this, look back at Lesson 1's summary
+ again to grasp how we can replace one object with another if they are 
+\begin_inset Quotes eld
+\end_inset
+
+functionally equivalent
+\begin_inset Quotes erd
+\end_inset
+
+.)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+e.g.
+ In the rectangular field example, let's assume we know the total fencing
+ used to surround the field (i.e.
+ the perimeter of the field) is 58 m.
+ Now we should have two relationships once again:
+\end_layout
+
+\begin_deeper
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+2(x+y)=2x+2y & =58 & \mbox{[This describes the perimeter.]}\\
+xy & =100 & [\mbox{This describes the area.]}
+\end{align*}
+
+\end_inset
+
+(where 
+\begin_inset Formula $x$
+\end_inset
+
+ and 
+\begin_inset Formula $y$
+\end_inset
+
+ are the length and width of the rectangular field.)
+\end_layout
+
+\begin_layout Standard
+There are two ways to 
+\emph on
+substitute
+\emph default
+ the equations into one another; I will substitute (or 
+\begin_inset Quotes eld
+\end_inset
+
+plug
+\begin_inset Quotes erd
+\end_inset
+
+) the second equation into the first after a bit of manipulation:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\begin{align*}
+xy & =100\\
+y & =\frac{100}{x}\\
+\Longrightarrow2x+2(\frac{100}{x}) & =58\\
+2x+\frac{200}{x} & =58\\
+2x^{2}+200 & =58x\\
+2x^{2}-58x+200 & =0\\
+x^{2}-29x+100 & =0\\
+(x-4)(x-25) & =0 & [\mbox{How do we get this?]}
+\end{align*}
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(The last step requires a technique called factoring, which we have not
+ touched upon.
+ Remember the 
+\begin_inset Formula $(a+b)(c+d)$
+\end_inset
+
+ problem on last week's homework? You can use that information to find the
+ result of 
+\begin_inset Formula $(x-r)(x-s).$
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Standard
+The last line is satisfied for both 
+\begin_inset Formula $x=4$
+\end_inset
+
+ and for 
+\begin_inset Formula $x=25$
+\end_inset
+
+.
+ These values correspond to 
+\begin_inset Formula $y=25$
+\end_inset
+
+ and 
+\begin_inset Formula $y=4$
+\end_inset
+
+.
+ Note that this shows the perimeter and area is not changed depending on
+ which we call the length or the width.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Problems
+\end_layout
+
+\begin_layout Enumerate
+You take a deck of 52 cards (no jokers) and split it into two piles of 26.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+If there are 15 red cards in the first pile, how many black cards are in
+ the second pile? 
+\end_layout
+
+\begin_layout Enumerate
+Show that the number of red cards in the first pile is always equal to the
+ number of black cards in the second pile.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+The units digit in a two-digit number is three times the tens digit.
+ If the digits are reversed, the resulting number is 54 more than the original
+ number.
+ Find the original number.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Here are some rectangle problems! Remember that area is length times width!
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+A rectangle has length twice its width, and area 72 
+\begin_inset Formula $\mbox{m\ensuremath{^{2}}}$
+\end_inset
+
+.
+ What is its width? 
+\end_layout
+
+\begin_layout Enumerate
+A rectangle has perimeter 30cm, and area 56 
+\begin_inset Formula $\mbox{cm\ensuremath{^{2}}}$
+\end_inset
+
+.
+ What is its length and width? 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+You start with a number, multiply it by 3, subtract 9, then divide what
+ you get by 3.
+ What number do you have to add now, if you want to get your original number
+ back? 
+\end_layout
+
+\begin_layout Enumerate
+Five consecutive even numbers add up to 100.
+ What is the largest of these numbers? 
+\end_layout
+
+\begin_layout Enumerate
+Pipe A can fill a pool in 5 hours, while Pipe B can fill it in four.
+ How long will it take for the two to fill the pool if both are operating
+ at the same time? (Assume that the rate at which water flows out of each
+ pipe is constant.)
+\end_layout
+
+\begin_layout Enumerate
+A canoeist paddled upstream for 2 hours, then downstream for 3.
+ The rate of the current was 2 km/h.
+ When she stopped, the canoeist realized she was 20 km downstream from her
+ starting point.
+ How many hours will it take her to paddle back to her starting point? Assume
+ every time she paddles, she has the same speed.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Every day, you wear either your red shirt, blue shirt, or yellow shirt.
+ However, you also have 
+\begin_inset Formula $n$
+\end_inset
+
+ different colours of ties, and every day, you choose a different tie to
+ wear.
+ If you have 24 different possibilities for how to dress, what is 
+\begin_inset Formula $n$
+\end_inset
+
+? (This can be solved with a concept we will be learning next lecture, but
+ you can still work it out!)
+\end_layout
+
+\begin_layout Standard
+(Bonus Question)
+\end_layout
+
+\begin_layout Itemize
+On a one-lane street, a get-away car is stuck between two police cruisers
+ approaching it from opposite ends, with one traveling at 40 m/s and one
+ traveling at 30 m/s.
+ The cars start off 560 m apart.
+ The car starts at one of the police cruisers and runs toward the other
+ one.
+ It turns around instantly when it hits the other vehicle (because he has
+ 
+\begin_inset Quotes eld
+\end_inset
+
+mad skills
+\begin_inset Quotes erd
+\end_inset
+
+).
+ It repeatedly drives between the cruisers, turning around when it hits
+ one of them, until the two cruisers trap the car to arrest the criminals
+ inside.
+ If the car drives at 60 m/s, what is the total distance it drives before
+ finally stopping?
+\end_layout
+
+\begin_layout Paragraph
+Interesting Problem of the Week
+\end_layout
+
+\begin_layout Standard
+Three guests decide to stay the night at a lodge whose rate they are initially
+ told is $30 per night.
+ However, after the guests have each paid $10 and gone to their room, the
+ proprietor discovers that the correct rate should actually be $25.
+ As a result, he gives the bellboy the $5 that was overpaid, together with
+ instructions to return it to the guests.
+ Upon consideration of the fact that $5 will be problematic to split three
+ ways, the bellboy decides to pocket $2 and return $1 each, or a total of
+ $3, to the guests.
+ Upon doing so, the guests have now each paid a total of $9 for the room,
+ for a total of $27, and the bellboy has retained $2.
+ So where has the remaining $1 from the initial $30 paid by the guests gone?!
+\end_layout
+
+\end_body
+\end_document

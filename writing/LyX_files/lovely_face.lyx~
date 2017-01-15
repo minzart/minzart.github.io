@@ -1,0 +1,177 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.75in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Thy Lovely Face 
+\end_layout
+
+\begin_layout Author
+Tim Min
+\end_layout
+
+\begin_layout Date
+January 28th, 2015
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Note: I wrote a draft for this poem in the winter of 2015.
+ I found it on January 17th, 2016 (almost a year later!) and decided to
+ complete it.
+\end_layout
+
+\begin_layout Standard
+The stars doth gaze upon thy lovely face;
+\begin_inset Newline newline
+\end_inset
+
+They smile upon you with their twinkly shine.
+ 
+\begin_inset Newline newline
+\end_inset
+
+The gentle twinkle give them youthful grace, 
+\begin_inset Newline newline
+\end_inset
+
+And yet, what moves me art those eyes of thine.
+\end_layout
+
+\begin_layout Standard
+The seeds of love didst grow beneath our feet.
+\begin_inset Newline newline
+\end_inset
+
+So long ago you left, yet still I weep.
+\begin_inset Newline newline
+\end_inset
+
+The passion in my heart feel bittersweet; 
+\begin_inset Newline newline
+\end_inset
+
+For you I sow and sow, yet never reap.
+\end_layout
+
+\begin_layout Standard
+Doth thou not hear the anguish in my call?
+\begin_inset Newline newline
+\end_inset
+
+If thou enjoy my pain, then all is well.
+ 
+\begin_inset Newline newline
+\end_inset
+
+The power is in thou to end this all;
+\begin_inset Newline newline
+\end_inset
+
+Three words away from ending living hell.
+\end_layout
+
+\begin_layout Standard
+The dying of the fire would bring relief; 
+\begin_inset Newline newline
+\end_inset
+
+But in our youthful love I still believe.
+\end_layout
+
+\end_body
+\end_document

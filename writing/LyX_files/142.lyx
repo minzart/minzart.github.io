@@ -1,0 +1,332 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\begin_modules
+theorems-ams-bytype
+\end_modules
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize 12
+\spacing onehalf
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 0.9in
+\topmargin 0.75in
+\rightmargin 0.9in
+\bottommargin 1.3in
+\headheight 0in
+\headsep 0in
+\footskip 0.75in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+One for Two
+\end_layout
+
+\begin_layout Author
+Tim Min
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+\emph on
+Note
+\series default
+\emph default
+: 
+\emph on
+This was originally written for an English competition back in 2014.
+ 
+\end_layout
+
+\begin_layout Standard
+Few people can say that they were most accomplished at the age of five.
+ 
+\end_layout
+
+\begin_layout Standard
+Even so for child prodigies; the accomplishments of geniuses seldom stop
+ at a young age.
+ With his earliest compositions surprising even his father, the five year
+ old Mozart had no problem defining a new, volatile musical era; Caruana’s
+ tournament appearances for chess at the age of five never stopped him from
+ attaining the rank of grandmaster before he turned fourteen; the legends
+ surrounding Gauss adding up every number from one to a hundred at the age
+ of five are only a small part of his significant legacy in the worlds of
+ number theory and geometry.
+ 
+\end_layout
+
+\begin_layout Standard
+With childhood being the apparent bud of larger successes of the future,
+ it is rather easy to start thinking, or even believing, that adulthood
+ is the time of true knowledge and understanding.
+ Perpetualized by images of the naïve, angsty teen and of the wise, all-knowing
+ old man, the perceived positive correlation between age and capability
+ has little counter-evidence and an abundance of supporting cases.
+ But between a young child and his older and “wiser” counterpart, which
+ one is more likely to be mesmerized by the first snowfall of winter, by
+ a fireworks display, by a colourful packet of pills lying on a table? Is
+ it not rather expected that the young, curious child would ask about why
+ every snowflake is different, why they see the pretty explosions before
+ they hear it, why they have a tummy ache when they try some of those small
+ capsules in the medicine cabinet? Would the adult not begin to answer,
+ as to not disappoint their young student? But then, does the adult know
+ everything about water bonds and crystallization? Does the adult know everythin
+g about waves and the electromagnetic spectrum? Does the adult know everything
+ about the digestive, immune, and circulatory systems? 
+\end_layout
+
+\begin_layout Standard
+No, most likely not.
+ 
+\end_layout
+
+\begin_layout Standard
+Does the adult ask anyone for more knowledge? Does the adult, in his realization
+ that he does not know enough, make a resolve to learn more? Does the adult
+ become humbled that the child could think to ask “Why?” when they themselves
+ did not consider doing so? 
+\end_layout
+
+\begin_layout Standard
+No, most likely not.
+ 
+\end_layout
+
+\begin_layout Standard
+And what is the most notorious response that these types of conceited, self-cons
+cious adults give to the child who have the courage to ask such profound
+ questions? 
+\end_layout
+
+\begin_layout Standard
+“Because that’s how things work.” 
+\end_layout
+
+\begin_layout Standard
+So, adults who are too afraid to ask questions inspire a new generation
+ of people who think the most heinous of crimes is to admit ignorance.
+ To ask questions.
+ To learn more.
+ Instead of allowing children to thrive in a free, beautiful, open world,
+ our societies are keeping those children in captivity, depriving them of
+ the radiant sunlight of truth.
+ First break a generation, and then expect them to lead the future.
+ The engine of failure continues.
+ 
+\end_layout
+
+\begin_layout Standard
+The easiest solution, it seems, is to educate our friends and neighbours
+ who are neglecting not only the curiosity of the young generation, but
+ also that of themselves.
+ But then, another brick wall pops up: “Do you think I’m stupid? Don’t tell
+ me what to do.
+ I already know.
+ Stop bothering me.” People are not only becoming more and more afraid of
+ asking questions, but also becoming more and more hostile towards the charity
+ of knowledge that is being offered to them.
+ 
+\end_layout
+
+\begin_layout Standard
+No more penny for your thoughts.
+ Keep your two cents.
+\end_layout
+
+\begin_layout Standard
+It is quite interesting (and perhaps depressing) what the value on the exchange
+ of knowledge is.
+ A penny for your thoughts? Giving your two cents? In a world where prices
+ are soaring, where even insignificant things are becoming more and more
+ out of reach, something as fundamental as knowledge is traded at cent values?
+ 
+\end_layout
+
+\begin_layout Standard
+Let us think for a minute: If a thought costs a penny, and a thought is
+ worth two cents...
+ 
+\end_layout
+
+\begin_layout Standard
+Imagine economists and businessmen laughing when they hear that paying a
+ cent for two is what will make the world prosper.
+ But, quite frankly, we get the last laugh, because a balance in a savings
+ account is worth an infinitesimal amount of the investment we can all put
+ into having a more educated, more inspired, more successful generation
+ of leaders.
+ The real get-rich-quick scheme, the ultimate arbitrage, is to be willing
+ to give a cent for two.
+ To be willing to give appreciation to those who are enriching us.
+ To be able to cast away some of our pride to be able to unlock greater
+ truths.
+ This is not prosperity that can be stripped away by a bank closing down,
+ mind you; this is prosperity that makes every day one filled with childish
+ wonder and awe.
+ 
+\end_layout
+
+\begin_layout Standard
+If you won the lottery this instant, you could probably buy everything you
+ ever wanted.
+ Or so you thought.
+ While sitting in front of that new grand piano, can you play it? While
+ looking through the telescope in your new observatory, can you name the
+ stars in the night sky? While on your new island getaway, can you jump
+ into the ocean and start swimming? While having everything you thought
+ you ever wanted, do you feel truly complete? Money can only buy happiness
+ to a point.
+ Up to the point where you wish you could sit down and play some Beethoven
+ for your friends, where you wish you could explore the Universe through
+ a lens, where you wish you could discover a whole new world right underneath
+ the surface of the water.
+ Those 
+\begin_inset Quotes eld
+\end_inset
+
+two cents
+\begin_inset Quotes erd
+\end_inset
+
+ are the sort of happiness that money alone cannot give you, while costing
+ no more than that imaginary penny.
+ 
+\end_layout
+
+\begin_layout Standard
+It is time for us to all find the buried treasure right around us.
+ Everyone around you is brimming with the two cents you want, and you yourself
+ are full of facts and tricks that more people than you think would spare
+ at least a penny for.
+ Even as participants in a more and more unstable economy, we are all blessed
+ beyond measure with boundless wealth.
+ 
+\end_layout
+
+\begin_layout Standard
+On every billboard, on every news outlet, on posters on every lamppost on
+ every street, two proclamations should be proudly displayed: 
+\end_layout
+
+\begin_layout Standard
+“To everyone afraid to ask: Do not be! Do not hold your pennies! Give them
+ out to the ones in the world who can inspire and change you! What you give,
+ you will get back twofold!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+“To everyone afraid to teach: Do not be! Spare just two cents! Give to those
+ less fortunate than you! Be part of a society that is proud to be generous!
+ What you give 
+\emph on
+will
+\emph default
+ make a difference!” 
+\end_layout
+
+\begin_layout Standard
+The economics of giving and taking knowledge is quite complex.
+ In the “real” world, a cent given is a cent lost.
+ Two cents is two times one cent.
+ But in the exchange of knowledge, what is given is never lost, and what
+ is received is always worth the price.
+ When we reach the end of the day, what we remember is not what we lost,
+ but rather what we gained in return.
+ The happiness of the fading child in our hearts continues to inspire us
+ to become better people.
+ 
+\end_layout
+
+\begin_layout Standard
+When we were five, we all had dreams of one day understanding the world
+ around us.
+ Where has that daily wonderment gone? What happened to admiring the magnificent
+ world around us? There might have never been a time in our lives where
+ we loved everything about everything as much as when were were five; we
+ may never be able to look at every fluttering butterfly, every passing
+ car, every breathtaking sunset with as much awe and curiosity as we did
+ back in the days of endless questions with even more potential answers.
+ The first years of a child’s life can never be redone.
+ As a society, we must work together to make every single person quick to
+ question and enthusiastic in sharing the answers they have.
+ Maybe one day in the near future, we will stop using the terms genius and
+ prodigy to describe something special; maybe five year olds who change
+ history will become a usual occurrence.
+ 
+\end_layout
+
+\begin_layout Standard
+To think that such a bright future is worth but two cents and might not
+ even cost a single penny.
+ 
+\end_layout
+
+\end_body
+\end_document
